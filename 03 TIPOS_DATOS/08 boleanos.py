@@ -6,4 +6,4 @@ is_active=0
 ## cuadno reutilzamos lñavariable ya no es necesario el tipo de dato
 print(asitencia)
 ## mutabilidada de datos
-## se refiere que en python lo pedemos cambiar de valor a las variables
+## se refiere que en python lo pedemos cambiar de valor a las varible
