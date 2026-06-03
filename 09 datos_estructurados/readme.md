@@ -37,5 +37,19 @@ print(frutas[2])
 # acceder al 2 elemento po rindice negativo
 print(frutas[-3])
 ```
-
+## modificar
+list [-1]="🍊"
+list(frutas)
 ## Diccionario
+acceder por rango 
+```python
+vocales:str=['a','i','e','o','u']
+## estra tecnica nos permite acceder a ams de un elemento en una sola linea de codigo
+vocales[0:3]
+## slicing
+ciudades:list[str]=['lima','cusco', 'chincha','pausa']
+ciudades[0:3]
+print(ciudades)
+## reemplazar elementos por slicing
+vocales[0:3]=['A','E','I']
+```
