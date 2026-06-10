@@ -53,3 +53,25 @@ print(ciudades)
 ## reemplazar elementos por slicing
 vocales[0:3]=['A','E','I']
 ```
+### metodo para listas
+es un accion que opuedo realizar en ua lista los metododsd por lo general se utilizan despues de las variables y se accede al metodo a travez de puntos .
+los metodos mas comunes son aquello que nos permite agregar modificar y eliminar
+```python
+# agregar elementos
+## apend
+animales:list[str]=[]
+animales.append
+animales.append
+## el metod apend agrga los elementos siempre en l aultimaq posicion de la lista 
+## insert
+numeros_pares:list[int]=[4,6,10]
+numero_pares.insert(0,2)
+numero_pares.insert(3,8)
+amigos:list[str|int]=["juan","jose"]
+amigos_insert(1,"deduardo")
+vocales:list[str]=["a","b","c","d"]
+vocales.remove("u")
+# ultimo elemento
+vocales:list[str]=["a","b","c","d"]
+vocales.pop(3)
+```
