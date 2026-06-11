@@ -74,4 +74,12 @@ vocales.remove("u")
 # ultimo elemento
 vocales:list[str]=["a","b","c","d"]
 vocales.pop(3)
+
+## este metodo permite ubicar a travez del valor el primer elemento (la primera coincidencia) dentroi de una lista y devolvera el indice de ese valor este metodo es index
+amantes:list[str]=['chapo','cristian','eemrson','victor']
+buscar:int=amantes.index("victor")# retorno un indice si existe
+amantes[buscar]
+existe:bool="chapo".in.amantes
+
+
 ```

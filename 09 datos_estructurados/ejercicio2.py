@@ -1,19 +1,33 @@
-## crear un programa que permita agregar a m, lista de compras los siguenmtes ingredeientes ajos,cenolla,limon,culantro,pingitan de mono,camote,cancha
-ingredientes:list[str]=[]
-ingredientes.append("cebolla")
-ingredientes.append("trucha")
-ingredientes.append("culantro")
-ingredientes.append("limon")
-ingredientes.append("pinga de mono")
-ingredientes.append("papa")
-ingredientes.append("cancha")
-print(ingredientes)
+
 ## entrda de datos
-ingredientes:list[str]=[]
+#ingredientes:list[str]=[]
 ## desarrollo
-for i in range(7):
-    ingredientes:str=input("ingrese tu ingrediente")
-    ingredientes.append(ingredientes)
+#for i in range(7):
+   # ingrediente:str=input("ingrese tu ingrediente")
+   # ingrediente.append(ingrediente)
     # datos de salida
-    print(ingredientes)
+    #print(ingrediente)
     
+    ### CREAR UN PROGRMA QUE AGREGE AL PRINCIOPO DE LA LISTA LOS CUATRO PRIMEROS PASOSES DEL GRUPO  A DE LOS PASIES PARTICIPANTES EN EL MUNDIAL 
+grupo_a:list[str]=[]
+grupo_a.insert (0,"rep.checa")
+grupo_a.insert (0,"corea del sur ")
+grupo_a.insert (0,"mexico")
+print(grupo_a)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
